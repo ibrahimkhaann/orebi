@@ -1,0 +1,15 @@
+@import "tailwindcss";
+
+@theme {
+    --font-dm: "DM Sans", "sans-serif"; 
+    --color-hoverColor: #767676;
+    --color-hederbg: #F5F5F3;
+    --color-formtext: #C4C4C4;
+    --color-bodyColor: #F5F7F9;
+    --color-shadowbody:0px 0px 9px 0px rgba(0,0,0,0.75);
+    --color-shadowcolor:#6D6D6D;
+    --color-black2:#262626;
+    --color-footercolor:hsla(0, 0%, 59%, 0.506);
+   
+  }
+  
