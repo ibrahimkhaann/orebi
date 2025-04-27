@@ -8,17 +8,17 @@ const Body2nd = () => {
     <Container>
         <Flex className="justify-between">
             <Flex>
-                <h1 className="mt-[540px] text-black font-bold text-[25px]">2</h1>
-                <h2 className="mt-[548px] ml-[10px] text-shadowcolor">Two years warranty</h2>
+                <h1 className=" text-black font-bold text-[25px]">2</h1>
+                <h2 className=" ml-[10px] mt-[8px] text-shadowcolor">Two years warranty</h2>
             </Flex>
 
             <Flex>
-                <h1 className="mt-[540px] text-black font-bold text-[25px]">2</h1>
-                <h2 className="mt-[548px] ml-[10px] text-shadowcolor">Two years warranty</h2>
+                <h1 className=" text-black font-bold text-[25px]">2</h1>
+                <h2 className=" ml-[10px] mt-[8px] text-shadowcolor">Two years warranty</h2>
             </Flex>
             <Flex>
-                <h1 className="mt-[540px] text-black font-bold text-[25px]">2</h1>
-                <h2 className="mt-[548px] ml-[10px] pb-[30px] text-shadowcolor">Two years warranty</h2>
+                <h1 className=" text-black font-bold text-[25px]">2</h1>
+                <h2 className=" ml-[10px] mt-[8px] pb-[30px] text-shadowcolor">Two years warranty</h2>
             </Flex>
         </Flex>
     </Container>

@@ -6,7 +6,7 @@ import Menu from './Menu'
 const Header = () => {
     return (
         <>
-          <Menu/>
+            <Menu />
             <div className="py-[20px] w-[100%]  bg-hederbg ">
                 <Container>
                     <Flex className="justify-between items-center">
